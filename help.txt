@@ -1,1 +1,2 @@
-commit2
+new file
+new line from git local
