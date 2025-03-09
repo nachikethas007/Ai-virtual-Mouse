@@ -1,12 +1,2 @@
-new file
-new line from git local
-
-<<<<<<< HEAD
-
-
-anshi v s
-
-
-=======
-nachu
->>>>>>> refs/remotes/origin/master
+hihihihi
+hi anshi
